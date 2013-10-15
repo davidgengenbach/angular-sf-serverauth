@@ -1,7 +1,7 @@
 angular-sf-serverauth
 =====================
 
-An internal module we use for FB apps :)
+An internal module I use for FB apps :)
 
 ```bash
 bower install git@github.com:davidgengenbach/angular-sf-serverauth.git --save
