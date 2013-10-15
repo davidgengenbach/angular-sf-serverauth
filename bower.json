@@ -21,7 +21,8 @@
     "tests"
   ],
   "dependencies": {
-    "angular-facebook": "git@github.com:davidgengenbach/angular-facebook.git#0.1.2"
+    "angular-facebook": "git@github.com:davidgengenbach/angular-facebook.git#0.1.2",
+    "lodash": "~2.2.1"
   },
   "devDependencies": {
     "angular": "~1.0.8",
