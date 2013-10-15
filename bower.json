@@ -1,0 +1,30 @@
+{
+  "name": "angular-sf-serverauth",
+  "version": "0.1.0",
+  "homepage": "https://github.com/davidgengenbach/angular-sf-serverauth",
+  "authors": [
+    "David Gengenbach <davidgengenbach@gmx.de>"
+  ],
+  "description": "Just an internal module we use to authenticate users :)",
+  "main": "lib/angular-sf-serverauth.js",
+  "keywords": [
+    "facebook",
+    "angularjs",
+    "auth"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-facebook": "git@github.com:davidgengenbach/angular-facebook.git#0.1.2"
+  },
+  "devDependencies": {
+    "angular": "~1.0.8",
+    "angular-mocks": "~1.0.8"
+  }
+}
